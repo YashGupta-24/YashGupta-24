@@ -4,13 +4,14 @@
 
 <img align="right" alt="coding gif" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
+
 - 🔭 I’m currently working on [Currency Convertor](https://yashgupta-24.github.io/Currency-Convertor/)
 
 - 🌱 I’m currently learning **react.js & MongoDb**
 
 - 💬 Ask me about **HTML, CSS, JS & Front-end Development**
 
-- 📫 Reach me at **yashgupta.miet2026@gmail.com**
+- 📫 How to reach me **yashgupta.miet2026@gmail.com**
 
 - ⚡ Fun fact **I'm not a geek!**
 
