@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS & Front-end Development**
 
-- 📫 How to reach me **yashgupta.miet2026@gmail.com**
+- 📫 Reach me at **yashgupta.miet2026@gmail.com**
 
 - ⚡ Fun fact **I'm not a geek!**
 
@@ -27,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashgupta-24&show_icons=true&locale=en&layout=compact" alt="yashgupta-24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashgupta-24&show_icons=true&locale=en" alt="yashgupta-24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashgupta-24&" alt="yashgupta-24" /></p>
