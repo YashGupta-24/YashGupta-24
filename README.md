@@ -1,4 +1,4 @@
-![logo](https://github.com/YashGupta-24/YashGupta-24/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](Banner.png)
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">A passionate frontend developer from Meerut,India.</h3>
 
